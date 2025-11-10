@@ -9,9 +9,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingUtilities;
-
 /**
- *
  * @author Fikri Lazuardi
  */
 public class Tugas {
