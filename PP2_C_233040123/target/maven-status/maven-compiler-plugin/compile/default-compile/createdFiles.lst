@@ -3,7 +3,9 @@ id\ac\unpas\pp2_c_233040123\modul06\latihan2$1.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan4.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan2.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan1$1.class
+id\ac\unpas\pp2_c_233040123\modul08\view\PersegiPanjangView.class
 id\ac\unpas\pp2_c_233040123\modul06\ContohMouseListener$1.class
+id\ac\unpas\pp2_c_233040123\modul08\controller\PersegiPanjangController$HitungListener.class
 id\ac\unpas\pp2_c_233040123\modul06\latihan1.class
 id\ac\unpas\pp2_c_233040123\modul06\ContohBorderLayout.class
 id\ac\unpas\pp2_c_233040123\modul06\latihan2$1$1.class
@@ -12,10 +14,14 @@ id\ac\unpas\pp2_c_233040123\modul05\Tugas$1.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan1.class
 id\ac\unpas\pp2_c_233040123\modul06\ContohGridLayout.class
 id\ac\unpas\pp2_c_233040123\modul07\TugasModul07.class
+id\ac\unpas\pp2_c_233040123\modul08\Main.class
+id\ac\unpas\pp2_c_233040123\modul08\controller\PersegiPanjangController$ResetListener.class
 id\ac\unpas\pp2_c_233040123\modul05\Tugas.class
+id\ac\unpas\pp2_c_233040123\modul08\model\PersegiPanjangModel.class
 id\ac\unpas\pp2_c_233040123\modul07\ManajemenNilaiSiswaApp$1.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan3.class
 id\ac\unpas\pp2_c_233040123\modul06\ContohMouseListener.class
+id\ac\unpas\pp2_c_233040123\modul08\controller\PersegiPanjangController.class
 id\ac\unpas\pp2_c_233040123\modul05\latihan2$1.class
 id\ac\unpas\pp2_c_233040123\modul06\ContohFlowLayout.class
 id\ac\unpas\pp2_c_233040123\modul06\latihan2.class
